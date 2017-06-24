@@ -1,2 +1,2 @@
 Maemong Youtube<br />
-https://www.youtube.com/channel/UCxNRTF3pzX2HEAtnY-gI4cA
+<a href="https://www.youtube.com/channel/UCxNRTF3pzX2HEAtnY-gI4cA" target="_blank">Maemong Youtube</a>
