@@ -1,0 +1,9 @@
+name: Youtube
+version: 5.0
+main: com.maemong.youtube.Youtube
+
+commands:
+  heal:
+    description: "체력과 배고픔을 회복해줍니다."
+  tp:
+    desciprtion: "다른 플레이어에게 텔레포트를 합니다."
